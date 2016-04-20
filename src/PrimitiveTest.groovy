@@ -1,5 +1,6 @@
-def x = int
+Integer x = int
 println(x)
+println(x.getClass())
 
 if ((x = long)) {
 println x
