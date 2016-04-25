@@ -12,3 +12,4 @@ println y
 
 //http://groovy.jmiguel.eu/groovy.codehaus.org/Strings+and+GString.html
 //http://programmingitch.blogspot.ca/2010/10/be-careful-using-gstrings-for-sql.html
+//http://docs.groovy-lang.org/2.3.5/html/api/groovy/sql/Sql.html#expand(java.lang.Object)
